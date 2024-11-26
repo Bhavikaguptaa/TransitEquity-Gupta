@@ -12,9 +12,13 @@ Included detailed maps, data visualizations, and results for comprehensive evalu
 Data Sources: The data used in this project is sourced from the Open Calgary Data Portal. The following datasets have been utilized:
 
 Calgary Transit Routes | Open Calgary. (2024, October 2). Retrieved on November 5, 2024 from https://data.calgary.ca/Transportation-Transit/Calgary-Transit-Routes/hpnd-riq4/about_data
+
 Calgary Transit stops | Open Calgary. (2024, October 2). Retrieved on November 5, 2024 from https://data.calgary.ca/Transportation-Transit/Calgary-Transit-Stops/muzh-c9qc/about_data
+
 Census by Community 2019 | Open Calgary. (2019, September 3). Retrieved on November 5, 2024 from https://data.calgary.ca/Demographics/Census-by-Community-2019/rkfr-buzb/about_data
+
 Community Sectors | Open Calgary. (2020, September 11). Retrieved on November 5, 2024 from https://data.calgary.ca/Base-Maps/Community-Sectors/mz2j-7eb5/about_data
+
 Transit LRT stations | Open Calgary. (2024, November 1). Retrieved on November 5, 2024 from https://data.calgary.ca/Transportation-Transit/Transit-LRT-Stations/2axz-xm4q/about_dat
 
 Acknowledgment: Drew, H. (2024, October 18). Network Geodatabase, University of Calgary.
