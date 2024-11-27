@@ -47,4 +47,4 @@ Map2_TransitServiceAreas.pdf: Highlights walking accessibility around transit st
 Map3_CensusPopulationTransitAccessibility.pdf: Displays the relationship between population density and transit accessibility.
 
 Licensing and Acknowledgments: Refer to the LICENSE file for details on usage rights under Creative Commons.
-The ACKNOWLEDGMENTS.md file credits data sources and collaborator
+The README.md file credits data sources and collaborators.
