@@ -26,27 +26,24 @@ Acknowledgment: Drew, H. (2024, October 18). Network Geodatabase, University of
 
 
 Instructions for Navigating the Repository
+
 This repository is organized to ensure users can easily explore and interact with its contents:
 
-README.md
-Start here for an overview of the project’s purpose, objectives, and data sources. This file guides the repository structure and usage instructions.
+README.md: Start here for an overview of the project’s purpose, objectives, and data sources. This file guides the repository structure and usage instructions.
 
-Data Folder 
-Contains all datasets used in the project, sourced from the Open Calgary Data Portal. Files include:
+Data Folder: Contains all datasets used in the project, sourced from the Open Calgary Data Portal. Files include:
 
 Calgary_Transit_Routes.csv
 Calgary_Transit_Stops.csv
 Census_by_Community_2019.csv
 Community_Sectors.csv
-Review these files to understand the structure and details of the data.
-Maps and Visualizations 
-Includes maps generated from ArcGIS Pro spatial analysis:
 
+Review these files to understand the structure and details of the data.
+
+Maps and Visualizations: Includes maps generated from ArcGIS Pro spatial analysis like 
 Map1_TransitDensification.pdf: Visualizes the density of transit stops.
 Map2_TransitServiceAreas.pdf: Highlights walking accessibility around transit stops.
 Map3_CensusPopulationTransitAccessibility.pdf: Displays the relationship between population density and transit accessibility.
 
-Licensing and Acknowledgments
-
-Refer to the LICENSE file for details on usage rights under Creative Commons.
+Licensing and Acknowledgments: Refer to the LICENSE file for details on usage rights under Creative Commons.
 The ACKNOWLEDGMENTS.md file credits data sources and collaborator
